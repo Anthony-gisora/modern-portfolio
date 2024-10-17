@@ -1,7 +1,7 @@
 const Post = () => {
     return ( 
         <div className="">
-            this is the Post Page ...!
+            Post Page under maintainance. Coming soon ...!
         </div>
      );
 }
