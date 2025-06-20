@@ -19,10 +19,10 @@ const Home =({colorMode})=>{
                     <div className="">
                         <div className="flex w-full justify-between">
                             <h1 className={`font-semibold text-[20px] mr-2 border-r-4 ${colorMode ? 'border-[#161515]' :' border-[#ffff]'} h-fit pr-2 `}>2000</h1>
-                            <p>Born in Rongai Nairobi and partialy grow over there then migrated to kisii where i grew, learned and currently working there at a startup company.</p>
+                            <p>Born in Kisii and partialy grow in Kiserian Nairobi then migrated to kisii where i grew, learned and currently working there at a startup company.</p>
                         </div>
                         <div className="flex w-full justify-between mt-3">
-                            <h1 className={`font-semibold text-[20px] mr-2 border-r-4 ${colorMode ? 'border-[#161515]' :' border-[#ffff]'} h-fit pr-2 `}>2023</h1>
+                            <h1 className={`font-semibold text-[20px] mr-2 border-r-4 ${colorMode ? 'border-[#161515]' :' border-[#ffff]'} h-fit pr-2 `}>2021</h1>
                             <p>Took my Diploma in Information and Communication Technology at The Kisii National Polytechnic from 2021-2024 </p>
                         </div>
                     </div>
