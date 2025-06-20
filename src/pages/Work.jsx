@@ -23,20 +23,10 @@ const Home = ({ colorMode }) => {
 
         {/* Work Section */}
         <div className="p-2 md:p-0 mb-6">
-          <h1
-            className={`font-semibold text-2xl border-b-2 w-fit pb-1 ${
-              colorMode
-                ? "border-[#ff4741] text-[#161515]"
-                : "border-[#ff4741] text-white"
-            }`}
-          >
+          <h1 className={`font-semibold text-2xl border-b-2 w-fit pb-1 `}>
             Work
           </h1>
-          <p
-            className={`mt-4 text-base leading-relaxed ${
-              colorMode ? "text-[#161515]" : "text-gray-300"
-            }`}
-          >
+          <p className={`mt-4 text-base leading-relaxed `}>
             Anthony is a full-stack developer. I can work both remotely and
             in-office setup to ensure on-time commitment of the product in
             construction. The following are some of the projects I've been
